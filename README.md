@@ -2,7 +2,7 @@
 
 An end-to-end equity pitch built from primary sources: every historical figure comes from Adobe's SEC EDGAR filings (company facts API), and the valuation runs off a linked three-statement Excel model — not a screenshot of someone else's estimates.
 
-**The call (Oct 20, 2026):** LONG Adobe (NASDAQ: ADBE) at $247.09 (close, Oct 19, 2026), target **$500** (+102%). The market is pricing an AI-disruption scenario (my disruption case values the stock at $242); the filings show revenue re-accelerating to +12.9% YoY, a 40.8% LTM free-cash-flow margin, and a buyback that retired 13.9% of the share count between January 2024 and September 2026.
+**The call:** LONG Adobe (NASDAQ: ADBE) at $247.09 (close, Oct 19, 2026), target **$500** (+102%). The market is pricing an AI-disruption scenario (my disruption case values the stock at $242); the filings show revenue re-accelerating to +12.9% YoY, a 40.8% LTM free-cash-flow margin, and a buyback that retired 13.9% of the share count between January 2024 and September 2026.
 
 ## Files
 
