@@ -1,7 +1,7 @@
 # Adobe Inc. (NASDAQ: ADBE) — Equity Pitch
 
 **Recommendation: LONG** · **Target price: $500** · Price: $247.09 (close, Oct 19, 2026) · **Implied upside: +102%**
-Archit Chawla · October 20, 2026
+Archit Chawla
 Market cap $96.2B · EV $96.9B · Shares out 389.2M (Sep 18, 2026) · Street: Hold, average target $272–284
 
 ## Variant perception
