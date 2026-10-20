@@ -2,7 +2,7 @@
 
 ## Full entry (Projects section)
 
-Adobe (ADBE) Equity Pitch — Long, Target $500 | Oct 2026
+Adobe (ADBE) Equity Pitch — Long, Target $500
 
 - Built to test a variant perception against primary sources: the market prices Adobe as an AI loser (9.1× P/FCF vs its own five-year median of 25.0×), while SEC filings show revenue re-accelerating to +12.9% YoY and a 41% FCF margin — pitched long with a $500 DCF target (+102%) and the priced-in disruption scenario ($242) as the downside anchor.
 - End-to-end model and memo: linked three-statement Excel forecast (FY2026E–FY2028E) built entirely from EDGAR company facts, with DCF scenarios/sensitivities and an own-history multiples cross-check; historicals tie exactly to filings, the balance sheet balances in every forecast year, and the model's FY2026E EPS proxy lands on management's guidance range. github.com/ArchitChawla26/Adobe-Equity-Pitch
