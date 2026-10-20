@@ -1,0 +1,12 @@
+{
+  "pulled": "2026-10-20",
+  "price_close": {"value": 247.09, "date": "2026-10-19", "note": "ADBE close Mon Oct 19, 2026; corroborated by MarketBeat price history ($247.09, +0.77%), Finnhub (current price 247.09, previous close 245.20) and stockanalysis.com (at close Oct 19, 2026 4:00 PM EDT). Stooq CSV was blocked by a JS browser check, so the close is cited from these published sources.",
+    "sources": ["https://www.marketbeat.com/stocks/NASDAQ/ADBE/chart/", "https://stockanalysis.com/stocks/adbe/"]},
+  "market_cap_bn": {"value": 96.17, "date": "2026-10-19", "source": "stockanalysis.com / MarketBeat; cross-checks to 247.09 x 389.2M shares (EDGAR) = 96.17B"},
+  "beta": {"value": 1.42, "source": "Finnhub (1.4126) and MarketBeat (1.42), retrieved 2026-10-20"},
+  "pe_ttm": {"value": 13.79, "source": "stockanalysis.com, Oct 19 2026 close"},
+  "range_52w": {"low": 190.12, "high": 363.70, "high_date": "2025-10-28", "source": "MarketBeat / TECHi quote pages, Oct 2026"},
+  "consensus": {"rating": "Hold", "avg_target_marketbeat": 283.90, "avg_target_stockanalysis": 272.31, "source": "MarketBeat and stockanalysis.com, retrieved 2026-10-20"},
+  "guidance": {"q4_fy26_eps_non_gaap": "6.30-6.35", "fy26_eps_non_gaap": "24.45-24.50", "next_earnings": "2026-12-09", "source": "Adobe Q3 FY2026 release (reported Sep 10, 2026) via MarketBeat summary"},
+  "year_end_market_caps_bn": {"source": "companiesmarketcap.com end-of-year market cap (calendar year-end, nearest trading day after Adobe's late-Nov/early-Dec fiscal year-end)", "CY2021": 269.35, "CY2022": 156.45, "CY2023": 271.63, "CY2024": 196.54, "CY2025": 150.08}
+}
