@@ -658,7 +658,7 @@ for col, w in zip("ABCDEFGHIJK", [46, 14, 14, 14, 14, 14, 12, 12, 15, 11, 10]):
 ws = wb.create_sheet("Cover", 0)
 put(ws, "A1", "Adobe Inc. (NASDAQ: ADBE) — Equity Pitch", font=Font(bold=True, size=16, color=NAVY))
 put(ws, "A2", "LONG — the market is pricing an AI disruption that the filings do not show", font=Font(bold=True, size=12))
-put(ws, "A3", "Archit Chawla · October 20, 2026 · All figures from SEC EDGAR filings unless noted; $ in millions except per-share")
+put(ws, "A3", "Archit Chawla · All figures from SEC EDGAR filings unless noted; $ in millions except per-share")
 put(ws, "A5", "Recommendation", font=SUBF)
 put(ws, "A6", "LONG / BUY", font=Font(bold=True, size=13))
 put(ws, "A7", "Target price"); put(ws, "B7", f"={V['target']}", PX, font=BOLD)
